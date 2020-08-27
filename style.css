@@ -1,0 +1,9 @@
+
+body {
+    background: #141414;
+}
+
+
+::selection{
+    background: rgb(147, 243, 211)
+}
